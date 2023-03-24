@@ -1,2 +1,3 @@
 # Code and data
-En esta carpeta se encuentra el código empleado en el proyecto del clasificador de señales de PCG y las señales utilizadas. La carpeta "Training" contiene 6 carpetas con los datos
+En esta carpeta se encuentra el código empleado en el proyecto del clasificador de señales de PCG y las señales utilizadas. La carpeta "Training" contiene 6 carpetas con los datos además de las funciones originales aportadas por Physionet para la segmentación de las señales en las diferentes etapas de los sonidos cardiacos, entre otras funciones de interés.
+La función que se encarga de leer todos los datos contenidos en las diferentes carpetas se llama main_Guardarsenales.m. Este script genera como resultado una estructura de Matlab que contiene las señales de entrenamiento para el modelo de Deep Learning.
