@@ -14,9 +14,11 @@ Ejemplo de una señal fonocardiográfica y los diferentes estados del ciclo card
 El modelo propuesto consta de un pre-procesamiento de la señal, una segmentación en los diferentes estados del ciclo cardiaco, una descomposición y reconstrucción de la señal en función de sus funciones de modo intrínseco (IMF), una extracción de carcterísticas mediante los coeficientes cepstrales de Mel y una estandarización de la señal y finalmente el modelo de clasificación.
 
 ![Picture1](https://user-images.githubusercontent.com/60301489/227609396-42ee9fd8-6227-4477-88b4-90e52359c914.png)
-diagrama de bloques de la metodología planteada.
+
+Diagrama de bloques de la metodología planteada.
 
 ![Picture4](https://user-images.githubusercontent.com/60301489/227609466-9ad1a7b1-90c6-4a3c-8d87-a0d91c3c8baf.png)
+
 Modelo de clasificación basado en la combinación de una red CNN y una red BiLSTM.
 
 ## Resultados obtenidos
