@@ -15,7 +15,7 @@ Example of a phonocardiographic signal and the different states of the cardiac c
 ## The proposed classification model
 The proposed model consists of signal preprocessing, segmentation into different states of the cardiac cycle, decomposition and reconstruction of the signal based on its intrinsic mode functions (IMFs), feature extraction using Mel cepstral coefficients, signal standardization, and finally, the classification model.
 
-![DiagramaPropuesta](https://github.com/zonados/PCG-Classifier/assets/60301489/3cef9f94-1cd0-48e6-a572-151ea59104bf)
+![Esquema](https://github.com/zonados/PCG-Classifier/assets/60301489/42489e90-262d-4209-adcb-c56bf288b1b9)
 
 Block diagram of the proposed methodology.
 
