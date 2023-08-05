@@ -7,7 +7,7 @@ authors:
 - family-names: "Altuve"
   given-names: "Miguel"
   orcid: "https://orcid.org/0000-0002-4064-2601"
-title: "Deep Learning-Based Classification of Phonocardiogram Signals Using CNN-BiLSTM Network and Empirical Mode Decomposition"
+title: "Deep Learning-Based Classification of Phonocardiogram Signals Using CNN-BiLSTM Network and Empirical Mode Decomposition [Source Code]"
 version: 1.0.0
 date-released: 2023-08-05
 url: "https://github.com/zonados/PCG-Classifier"
